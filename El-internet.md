@@ -12,3 +12,14 @@ El internet nació como un proyecto del departamento de defensa de estados unido
 
 ## ¿Cómo tenemos acceso a internet?
 En el mundo del internet nos encontraremos con varios términos, uno de ellos son los ISPs (Proveedores de Servicio de Internet por sus siglas en inglés.) quienes se dividen en 3 niveles, dónde el último ISPs es el que provee el servicio de internet a familias, empresas, instituciones, entre otros. 
+
+## ¿Cómo funciona el internet?
+Sabemos que el internet llega a nosotros a traves de los ISPs, quienes se concetan entre sí a través de los IXPs, que no son más que puntos de intercambio de tráfico de datos.
+![IXPs de: https://bunny.net/academy/network/what-are-internet-exchange-points-ixps-and-how-do-they-help-the-internet-Q48Q3/](IXPs.png)
+
+Otra parte fundamental en este proceso de envío y recepción de datos son las rutas principales de conexión de alta capacidad que conectan diferentes partes del mundo o regiones entre sí, a esta parte se le llema Backbones.
+
+## - Direcciones IP:
+Las direcciones IP son identificadores que cada dispositivo conectado a internet tiene, estas direcciones pueden ser de dos tipos IPv4 de 32 bits e IPv6 de 128 bits.
+
+## - Protocolos de internet: 
