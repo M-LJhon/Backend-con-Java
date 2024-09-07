@@ -20,7 +20,7 @@ public class Funciones {
 
     // Ejemplos de métodos propios de Java:
     public void metodosJava() {
-        String nombre = "Jhon";
+        String nombre = "Gato";
         System.out.println(nombre.toUpperCase()); // Convierte el nombre a MAYÚSCULA.
         System.out.println(nombre.toLowerCase()); // Convierte el nombre a MINÚSCULA.
     }

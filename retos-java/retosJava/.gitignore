@@ -69,4 +69,5 @@ nb-configuration.xml
 
 # Windows
 Thumbs.db
-
+retosJava.iml
+.idea
