@@ -19,7 +19,7 @@
 hs_err_pid*
 
 # IntelliJ IDEA
-.idea/
+retos-java/retosJava/.idea/
 *.iws
 *.iml
 *.ipr
@@ -71,5 +71,5 @@ nb-configuration.xml
 Thumbs.db
 retosJava.iml
 .idea
-retos-java.iml
+
 
