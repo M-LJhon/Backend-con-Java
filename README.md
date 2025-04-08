@@ -1,4 +1,4 @@
-![Banner](banner.jpg)
+![Banner](/_Imagenes/banner.jpg)
 
 # Roadmap de Desarrollo Backend con Java
 
@@ -8,4 +8,4 @@ Este repositorio es el resultado de la inspiración generada por el canal [Gentl
 
 
 ## Temas:
-[El Internet](El-internet.md)
+[El Internet](/_Teoria/El-internet.md)
